@@ -1,7 +1,18 @@
 <div align = "center">
 
-### 👋 안녕하세요! 👋
- 
+### 👋 안녕하세요! 
+
+개발자가 되어가는 중입니다
+
+부족한 점을 함께 채워나가는 사람이고 싶습니다
+
+<hr> 
+
+<a href="https://sneaky-fowl-623.notion.site/baacc370176c4c1b93675dcedf2f86f7"><img src="https://user-images.githubusercontent.com/103303021/208474761-485e0b80-209c-47f3-8f82-0721f4a54b60.png" width="13%"></a>
+
+(노션 수정 중입니다!)
+
+
 #### 💻 Baekjoon Online Judge 💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dmlgus1922)](https://solved.ac/dmlgus1922)
 
