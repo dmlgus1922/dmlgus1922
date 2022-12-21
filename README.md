@@ -10,7 +10,6 @@
 
 <a href="https://sneaky-fowl-623.notion.site/baacc370176c4c1b93675dcedf2f86f7"><img src="https://user-images.githubusercontent.com/103303021/208474761-485e0b80-209c-47f3-8f82-0721f4a54b60.png" width="13%"></a>
 
-(노션 수정 중입니다!)
 
 
 #### 💻 Baekjoon Online Judge 💻
