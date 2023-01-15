@@ -9,10 +9,9 @@
 
 <hr> 
 
-<a href="https://sneaky-fowl-623.notion.site/baacc370176c4c1b93675dcedf2f86f7"><img src="https://user-images.githubusercontent.com/103303021/212546681-fcb6e2b4-e91e-415f-9155-9522694dbff8.png" width="12%"></a>
-
+<a href="https://sneaky-fowl-623.notion.site/baacc370176c4c1b93675dcedf2f86f7"><img src="https://user-images.githubusercontent.com/103303021/212546681-fcb6e2b4-e91e-415f-9155-9522694dbff8.png" width="15%"></a>
 <a href="https://blog.naver.com/dmlgus8389">
-<img src="https://user-images.githubusercontent.com/103303021/212546428-bd2459ab-41ce-49bb-ba20-826b452cd4b1.png" width="13%">
+<img src="https://user-images.githubusercontent.com/103303021/212546428-bd2459ab-41ce-49bb-ba20-826b452cd4b1.png" width="16%">
 </a>
 
 
