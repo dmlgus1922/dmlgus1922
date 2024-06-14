@@ -2,11 +2,6 @@
 
 ### 👋 안녕하세요
 
-개발자가 되어가는 중입니다!
-
-부족한 점을 함께 채워나가는 사람이고 싶습니다!
-
-
 
 <hr> 
 
@@ -21,10 +16,6 @@
   <img src="https://user-images.githubusercontent.com/103303021/212546428-bd2459ab-41ce-49bb-ba20-826b452cd4b1.png" width="17%" />
 </a>
 
-
-
-#### 💻 Baekjoon Online Judge 💻
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dmlgus1922)](https://solved.ac/dmlgus1922)
 
 #### 🌱 **배워가고 있습니다** 🌱
   
